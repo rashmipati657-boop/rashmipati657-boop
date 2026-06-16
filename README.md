@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1CB5E0,100:000851&text=Rashmi%20Ranjan%20Pati&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1600&pause=600&color=1CB5E0&center=true&vCenter=true&width=900&lines=B.Tech+Aspirant;Learning+C+Programming;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Future+GATE+Aspirant;Future+Software+Engineer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1600&pause=700&color=1CB5E0&center=true&vCenter=true&width=900&lines=B.Tech+Aspirant;Learning+C+Programming;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Future+GATE+Aspirant;Future+Software+Engineer">
 </p>
 
 ## 🎓 Education
