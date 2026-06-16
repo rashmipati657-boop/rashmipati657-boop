@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rashmi Ranjan Pati 👋
+<img src="https://via.placeholder.com /1000x250.png?text=Rashmi+Ranjan+Pati" width="100%">
 
-<!--
-**rashmipati657-boop/rashmipati657-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Class 12 Passed
+- B.Tech Aspirant
 
-Here are some ideas to get you started:
+## 💻 Currently Learning
+- C Programming
+- HTML
+- CSS
+- JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Become a Software Engineer
+- Crack GATE Exam
+- Get a good placement
+
+## 🚀 Projects
+- Portfolio Website (Coming Soon)
+- HTML & CSS Projects
+
+## 📫 Connect With Me
+- GitHub: https://github.com/rashmipati657-boop
