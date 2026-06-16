@@ -1,8 +1,6 @@
 # Hi, I'm Rashmi Ranjan Pati 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rashmi%20Ranjan%20Pati&fontSize=45&animation=fadeIn&fontAlignY=38" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Rashmi%20Ranjan%20Pati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=B.Tech+Aspirant;Learning+C+Programming;HTML+%7C+CSS+%7C+JavaScript;Future+GATE+Aspirant">
 </p>
