@@ -1,5 +1,5 @@
 # Hi, I'm Rashmi Ranjan Pati 👋
-<img src="https://via.placeholder.com /1000x250.png?text=Rashmi+Ranjan+Pati" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Rashmi%20Ranjan%20Pati&fontSize=40" width="100%">
 
 ## 🎓 Education
 - Class 12 Passed
